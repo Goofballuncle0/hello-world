@@ -1,7 +1,9 @@
 # hello-world
 
-Digital Media Haiku:
+Digital Media Limerick:
 
-Life with media                                                                                      
-full of experiences                                                                                  
-that's the way to live 
+Life with media is fun                                                                                   
+the things you can do is a ton                                                                           
+I need a break                                                                                                                        
+I made a mistake                                                                                                                      
+Nah I think I'm done
